@@ -1,3 +1,3 @@
-#KAG
-Bookmarks
-The files *.md are used to create HTML based on template.html.
+Bookmarks-AI
+
+* The files *.md are used to create HTML based on template.html.
