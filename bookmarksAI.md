@@ -10,3 +10,6 @@
 **Videá**
 * (Heidelberg Laureate Forum) [Panel Discussion: AI in Mathematical Research | September 15](https://www.youtube.com/watch?v=H7_d_sgui6o)
 
+**Články**
+* Pavel Etingof: [Use of AI in mathematical research:A guide for young mathematicians](https://math.mit.edu/~etingof/aiuse.pdf)
+* Pavel Etingof and Slava Gerovitch: [Mathematics of the Future](https://math.mit.edu/~etingof/)
