@@ -8,5 +8,15 @@
 * [GitHub](https://github.com/leanprover-community/mathlib4)
 * [Documentation](https://leanprover-community.github.io/mathlib4_docs/)
 * [A mathlib overview](https://leanprover-community.github.io/mathlib-overview.html)
+* [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/)
 * Lean Community Blog: [Searching for Theorems in Mathlib](https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/) (June 2025)
 
+**Videá**
+
+**Teaching**
+* Thomas Hales: [What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
+* Lean Community: [Courses using Lean](https://leanprover-community.github.io/teaching/courses.html)
+
+**Rôzne**
+
+* MathOverflow: [Formalization advice for mathematicians](https://mathoverflow.net/q/515632)

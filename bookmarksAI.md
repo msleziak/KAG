@@ -45,5 +45,3 @@
 * Piotr Hajlasz: [OpenAI mathematics preprint catalogue](https://sites.pitt.edu/~hajlasz/OpenAI_Math_Catalogue.html)
 * MathOverflow: [How many of the results released by OpenAI went against the conventional mathematical wisdom?](https://mathoverflow.net/q/515849)
 * MathOverflow: [How can one contact the authors of OpenAI's October 2026 mathematics release regarding corrections or missing references?](https://mathoverflow.net/q/515845)
-
-
