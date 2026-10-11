@@ -7,10 +7,12 @@
 * OpenAI - [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai/)
 
 **Terry Tao**
+* [Terence Tao on AI in mathematics (and beyond)](https://teorth.github.io/tao-web/ai-views.html)
 * (SAIR) [Terence Tao - Mathematics in the Age of AI](https://www.youtube.com/watch?v=mS9Lr43cIB4)
 * (Simons Foundation) [Terence Tao - Machine-Assisted Proofs (February 19, 2025)](https://www.youtube.com/watch?v=5ZIIGLiQWNM)
 * (Simons Foundation) [ICM 2026 Public Lectures - Terence Tao](https://www.youtube.com/watch?v=M0--ZH1lOzg)
 * [Slides for the ICM Lecture](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf), [arXiv:2608.16753](https://arxiv.org/abs/2608.16753)
+* [Math 2.0](https://terrytao.wordpress.com/2026/10/10/math-2-0/) - [slides](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 
 **Videá**
 * (Heidelberg Laureate Forum) [Panel Discussion: AI in Mathematical Research | September 15](https://www.youtube.com/watch?v=H7_d_sgui6o)
