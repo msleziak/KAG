@@ -1,3 +1,4 @@
-Bookmarks-AI
+bookmarksAI and bookmarksLean
 
-* The files *.md are used to create HTML based on template.html.
+* At the moment, just a place to collect various links.
+* This repository is mostly a working draft - we will later decide where to put those links.
