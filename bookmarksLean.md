@@ -9,6 +9,7 @@
 * [Documentation](https://leanprover-community.github.io/mathlib4_docs/)
 * [A mathlib overview](https://leanprover-community.github.io/mathlib-overview.html)
 * [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/)
+* [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/)
 * Lean Community Blog: [Searching for Theorems in Mathlib](https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/) (June 2025)
 
 **Videá**
@@ -20,3 +21,7 @@
 **Rôzne**
 
 * MathOverflow: [Formalization advice for mathematicians](https://mathoverflow.net/q/515632)
+
+**Články**
+
+* Alexander Bastounis, Fabian Circelli, Anders C. Hansen: Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs; [arXiv:2610.08144](https://arxiv.org/abs/2610.08144)
